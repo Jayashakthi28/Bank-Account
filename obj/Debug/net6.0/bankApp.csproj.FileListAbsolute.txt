@@ -1,0 +1,15 @@
+/home/jsv/Codes/C#/bankApp/bin/Debug/net6.0/bankApp
+/home/jsv/Codes/C#/bankApp/bin/Debug/net6.0/bankApp.deps.json
+/home/jsv/Codes/C#/bankApp/bin/Debug/net6.0/bankApp.runtimeconfig.json
+/home/jsv/Codes/C#/bankApp/bin/Debug/net6.0/bankApp.dll
+/home/jsv/Codes/C#/bankApp/bin/Debug/net6.0/ref/bankApp.dll
+/home/jsv/Codes/C#/bankApp/bin/Debug/net6.0/bankApp.pdb
+/home/jsv/Codes/C#/bankApp/obj/Debug/net6.0/bankApp.csproj.AssemblyReference.cache
+/home/jsv/Codes/C#/bankApp/obj/Debug/net6.0/bankApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/jsv/Codes/C#/bankApp/obj/Debug/net6.0/bankApp.AssemblyInfoInputs.cache
+/home/jsv/Codes/C#/bankApp/obj/Debug/net6.0/bankApp.AssemblyInfo.cs
+/home/jsv/Codes/C#/bankApp/obj/Debug/net6.0/bankApp.csproj.CoreCompileInputs.cache
+/home/jsv/Codes/C#/bankApp/obj/Debug/net6.0/bankApp.dll
+/home/jsv/Codes/C#/bankApp/obj/Debug/net6.0/ref/bankApp.dll
+/home/jsv/Codes/C#/bankApp/obj/Debug/net6.0/bankApp.pdb
+/home/jsv/Codes/C#/bankApp/obj/Debug/net6.0/bankApp.genruntimeconfig.cache

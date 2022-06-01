@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XZ9rAmfSKj3MXldLpNNddt+6wXIibOfWBcjb67LRLYuTU9EN5QIq5rKf4eGfYVsIYCfjSVz3h1EA3Aff0Sz1Rw==",
+  "success": true,
+  "projectFilePath": "/home/jsv/Codes/C#/bankApp/bankApp.csproj",
+  "expectedPackageFiles": [
+    "/home/jsv/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
